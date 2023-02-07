@@ -1,8 +1,29 @@
 ---
 permalink: /about/
-title: "About"
+title: "Chi sono"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Ciao a tutti,
+Mi chiamo Riccardo Belliato, ho 23 anni e sono uno studente del corso di Laurea Magistrale in Informatica presso l'Università degli Studi di Udine, curriculum [Progettazione e Sviluppo di Sistemi Software](https://www.dmif.uniud.it/magistrale/informatica/progetto-e-sviluppo-di-sistemi-software/).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Studio informatica da quando avevo 14 anni e nel corso della mia carriera, prima scolastica poi universitaria, ho avuto modo di acquisire esperienza su vari ambiti di questa disciplina.
+
+I miei maggiori interessi sono:
+
+- DevOps, Continuos Integration, Continuous Deployment/Delivery,
+
+- Metodi agili,
+
+- Progettazione ed analisi orientate agli oggetti,
+
+- Docker e Kubernetes,
+
+- Cloud Computing,
+
+- Business Intelligence e Data Warehousing,
+
+- Networking e Sistemi Distribuiti.
+
+Conosco i seguenti linguaggi di programmazione e tool: C, Java, C\#, Python, PHP, Javascript, Git.
+
+Nel tempo libero e nei fine settimana mi diverto a calcare i campi da calcio del Friuli Venezia Giulia con il fischietto in bocca e i cartellini in mano.
