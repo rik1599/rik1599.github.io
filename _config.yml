@@ -28,7 +28,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome
 
 include:
   - _pages
@@ -75,9 +75,19 @@ author:
       icon: "far fa-envelope"
       url: "mailto:belliatoriccardo@gmail.com"
 
-footer:
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
   # _posts
   - scope:
       path: ""
@@ -86,8 +96,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
       related: true
   # _pages
   - scope:

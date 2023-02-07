@@ -24,6 +24,6 @@ I miei maggiori interessi sono:
 
 - Networking e Sistemi Distribuiti.
 
-Conosco i seguenti linguaggi di programmazione e tool: C, Java, C\#, Python, PHP, Javascript, Git.
+Conosco i seguenti linguaggi di programmazione e tool: C, Java, C\#, Python, PHP, Javascript, Git, LaTeX.
 
 Nel tempo libero e nei fine settimana mi diverto a calcare i campi da calcio del Friuli Venezia Giulia con il fischietto in bocca e i cartellini in mano.
