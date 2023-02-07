@@ -1,7 +1,6 @@
 ---
 title: "Integration testing e DevOps"
-subtitle: "sviluppo e implementazione della libreria Kubesuite"
-excerpt: "Tesi di laurea triennale"
+excerpt: "Sviluppo e implementazione della libreria Kubesuite"
 header:
   image: /assets/images/kubesuite/dfd-lv0.jpg
   teaser: /assets/images/kubesuite/dfd-lv0.jpg

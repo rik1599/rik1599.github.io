@@ -4,6 +4,7 @@ title: "Chi sono"
 ---
 
 Ciao a tutti,
+
 Mi chiamo Riccardo Belliato, ho 23 anni e sono uno studente del corso di Laurea Magistrale in Informatica presso l'Università degli Studi di Udine, curriculum [Progettazione e Sviluppo di Sistemi Software](https://www.dmif.uniud.it/magistrale/informatica/progetto-e-sviluppo-di-sistemi-software/).
 
 Studio informatica da quando avevo 14 anni e nel corso della mia carriera, prima scolastica poi universitaria, ho avuto modo di acquisire esperienza su vari ambiti di questa disciplina.
