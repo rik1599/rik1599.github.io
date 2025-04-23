@@ -23,4 +23,4 @@ This project consists of:
 
 - a script that through the [Atoti](https://www.atoti.io/) tool takes the previously created CSV files and builds two OLAP cubes and a web interface to navigate and query the cubes.
 
-For further information, please refer to the README file of the repository.
+For further information and instructions (in Italian language), please refer to the [GitLab repository](https://gitlab.com/rik1599/dw-elezioni).

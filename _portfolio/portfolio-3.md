@@ -11,3 +11,7 @@ Indeed, two unpleasant situations encountered during development were to be avoi
 - the lack of a structured container testing phase, which was limited to writing Azure Function tests to be executed locally and then observing their operation,
 
 - the development team's use of an unsuitable Dockerfile template, which led to potential security issues, as it involved exposing user credentials in plain text.
+
+Thesis (in Italian language) is available at [this link](/files/Tesi_Triennale___Belliato_Riccardo.pdf).
+
+![Kubesuite Level 1 DFD](/images/portfolio/dfd-lv1.jpg)

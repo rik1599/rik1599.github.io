@@ -20,3 +20,7 @@ In short, the idea is the following:
 - negotiate with the other waiting drones to schedule departures in order to avoid collisions.
 
 All of this was implemented in the C# language (.NET 6), making extensive use of the AKKA.NET framework to manage communication via messages.
+
+The project is available on [GitHub](https://github.com/rik1599/DistributedSystemsExam) and the final report (in Italian language) is available [here](/files/Sistemi_distribuiti.pdf).
+
+![Drone fleet schema](/images/portfolio/drones.jpg)
