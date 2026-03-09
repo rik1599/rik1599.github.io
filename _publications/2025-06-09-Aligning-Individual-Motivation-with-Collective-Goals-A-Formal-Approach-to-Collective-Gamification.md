@@ -1,9 +1,9 @@
 ---
 title: "Aligning Individual Motivation with Collective Goals: A Formal Approach to Collective Gamification"
 collection: publications
-category: manuscripts
-permalink: /publication/22025-06-09-Aligning-Individual-Motivation-with-Collective-Goals-A-Formal-Approach-to-Collective-Gamification
-excerpt: "A systematic review of the use of gamification to promote sustainable mobility."
+category: conferences
+permalink: /publication/2025-06-09-Aligning-Individual-Motivation-with-Collective-Goals-A-Formal-Approach-to-Collective-Gamification
+excerpt: "A mathematical model and an architectural proposal for optimization of collective gamification, where users receive task assignments based on their skills and preferences, and are rewarded for completing them."
 date: 2025-06-09
 venue: '2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11096209'
