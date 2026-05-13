@@ -12,6 +12,6 @@ This thesis presents the development and implementation of a recommendation mode
 
 Thesis is available at [this link](/files/Finetuning_Large_Language_Models_for_Gamified_Urban_Mobility_Recommendations.pdf).
 
-### Images
+## Images
 
-![](/images/portfolio/recsys.png)
+![Recommendation system visualization for sustainable mobility](/images/portfolio/recsys.png)
